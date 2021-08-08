@@ -6,6 +6,11 @@ int add(int a, int b)
 	return a + b;
 }
 
+void foo()
+{
+	std::cout << "hello world";
+}
+
 int main()
 {
     std::cout << "Hello World!\n"; 

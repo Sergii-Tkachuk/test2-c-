@@ -13,8 +13,5 @@ void foo()
 
 int main()
 {
-    std::cout << "Hello World!\n"; 
-	int a;
-	a = add(2, 2);
-	std::cout << a;
+	foo();
 }
